@@ -27,7 +27,7 @@ const Contact = () => {
             <div className="flex items-center gap-4">
               <BsPhone className="text-[#65ED52]" size={30} />
               <div>
-                <p className="text-lg font-bold">+250 780 1398</p>
+                <p className="text-lg font-bold">+250 780414398</p>
                 <p className="text-sm text-gray-400">Available Every Day</p>
               </div>
             </div>
