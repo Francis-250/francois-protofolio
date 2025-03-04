@@ -90,7 +90,7 @@ export const skills = [
 export const homeContents = [
   {
     myName: "Munyankindi Francois",
-    title: "Froatend developer",
+    title: "Frontend developer",
     description:
       "Junior Frontend Developer passionate about creating engaging and visually appealing web applications. With a strong foundation in HTML, CSS, JavaScript, and modern tools like React and Tailwind CSS, I specialize in building responsive, user-friendly interfaces that deliver great experiences on any device.",
   },
