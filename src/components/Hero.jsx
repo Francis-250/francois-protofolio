@@ -31,9 +31,9 @@ const Hero = () => {
                 Hire me !
               </button>
               <a
-                href="/path/to/your/resume.pdf"
+                href="#"
                 download
-                className="px-6 py-3 bg-[#65ED52] flex gap-2 items-center justify-center rounded-lg text-black bg-transparent border-2 border-[#65ED52] hover:text-[#65ED52] hover:bg-transparent transition-all duration-500 ease-in-out font-semibold"
+                className="px-6 py-3 bg-[#65ED52] flex gap-2 items-center justify-center rounded-lg hover:text-black bg-transparent border-2 border-[#65ED52] text-[#65ED52] bg-transparent transition-all duration-500 ease-in-out font-semibold"
               >
                 <FaDownload />
                 Resume
